@@ -32,7 +32,7 @@ export default function Layout(props) {
     <footer>
       <p><span className="text-gradient">Caffiend</span> was made by <a href="https://bento.me/helios-2805" target="_blank">Helios </a> <br />
         Project Credits- <a href="https://www.smoljames.com" target="_blank">SmolJames</a><br />
-        Check out the project on <a target="_blank" href="">Github</a>!</p>
+        Check out the project on <a target="_blank" href="https://github.com/helios-2805/caffiend">Github</a>!</p>
     </footer>
   )
 
